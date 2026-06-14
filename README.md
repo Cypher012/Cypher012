@@ -78,7 +78,7 @@ I build with LLMs as a first-class tool: prompt engineering, RAG pipelines, AI-p
 
 ![Cypher012's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cypher012&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher012&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher012&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=jupyter%20notebook,html,css)
 
 </div>
 
