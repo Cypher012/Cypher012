@@ -63,7 +63,7 @@ I build with LLMs as a first-class tool: prompt engineering, RAG pipelines, AI-p
 | Project | Description | Stack |
 |---|---|---|
 | **[Leaflet](https://github.com/Cypher012/leaflet)** | Social platform with OAuth, real-time WebSockets, cursor pagination, and Cloudflare R2 storage | Go · Echo · PostgreSQL · React |
-| **[Arvio](https://github.com/Cypher012/arvyo)** | Telegram expense tracker — OPay receipt parsing via email forwarding + IMAP | Go · SQLite · Telego · Goose |
+| **[Arvio](https://github.com/Cypher012/arvyo)** | Telegram expense tracker — receipt parsing via email forwarding + IMAP | Go · SQLite · Telego · Goose |
 | **[Klikk](https://github.com/Cypher012/klikk)** | AI-powered Hyprland overlay cursor using Claude vision for screen analysis | Go · Python GTK4 · Claude Haiku |
 | **[TDM](https://github.com/Cypher012/TDM)** | Terminal download manager with concurrent worker pool and live progress TUI | Go · tview |
 | **[gopost](https://github.com/Cypher012/gopost-linkedin)** | CLI tool that generates LinkedIn posts from git diffs using Claude Haiku | Go · tview · huh |
