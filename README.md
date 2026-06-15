@@ -2,7 +2,7 @@
 
 #  Evangeline Anga
 
-**Fullstack Engineer · Go · React · Building things that scale**
+**Fullstack Engineer · Go · React · Python · Building things that scale**
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Freelance-%2300C853?style=flat-square)](#)
 
