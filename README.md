@@ -2,7 +2,7 @@
 
 #  Ayowole Ojoade
 
-**Fullstack Engineer · Go · React · Python · Building things that scale**
+**Fullstack Engineer · React  · NestJs ·Go · Python · Building things that scale**
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Freelance-%2300C853?style=flat-square)](#)
 
