@@ -29,6 +29,7 @@ I build with LLMs as a first-class tool: prompt engineering, RAG pipelines, AI-p
 **Backend**
 
 ![Echo](https://img.shields.io/badge/Echo_v5-00ADD8?style=flat-square&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLC](https://img.shields.io/badge/SQLC-grey?style=flat-square)
@@ -62,13 +63,12 @@ I build with LLMs as a first-class tool: prompt engineering, RAG pipelines, AI-p
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Leaflet](https://github.com/Cypher012/leaflet)** | Social platform with OAuth, real-time WebSockets, cursor pagination, and Cloudflare R2 storage | Go · Echo · PostgreSQL · React |
+| **[fastapi-authkit](https://github.com/Cypher012/fastapi-authkit)** | Drop-in FastAPI auth toolkit — password + Google OAuth, JWT, rotating refresh tokens, multi-tenant orgs, and RBAC, as three composable packages | Python · FastAPI · SQLModel · PostgreSQL |
 | **[Arvio](https://github.com/Cypher012/arvyo)** | Telegram expense tracker — receipt parsing via email forwarding + IMAP | Go · SQLite · Telego · Goose |
 | **[Klikk](https://github.com/Cypher012/klikk)** | AI-powered Hyprland overlay cursor using Claude vision for screen analysis | Go · Python GTK4 · Claude Haiku |
 | **[TDM](https://github.com/Cypher012/TDM)** | Terminal download manager with concurrent worker pool and live progress TUI | Go · tview |
 | **[gopost](https://github.com/Cypher012/gopost-linkedin)** | CLI tool that generates LinkedIn posts from git diffs using Claude Haiku | Go · tview · huh |
 | **[Image Processing with Python](https://github.com/Cypher012/Image-Processing-with-Python)** | Collection of image processing techniques — thresholding, denoising, edge detection, and histogram segmentation | Python · OpenCV · SciPy |
-| **[Reveille](https://github.com/Cypher012/reveille)** | Oil & gas company website redesign, deployed to Cloudflare Pages | Vite · React · Tailwind v4 · TanStack Router |
 
 ---
 
