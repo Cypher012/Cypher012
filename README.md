@@ -38,7 +38,8 @@ I build with LLMs as a first-class tool: prompt engineering, RAG pipelines, AI-p
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TanStack Start](https://img.shields.io/badge/TanStack_Start-1C1C1C?style=flat-square&logo=reactquery&logoColor=white)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-3178C6?style=flat-square&logo=reactquery&logoColor=white)
+
 
 **AI & LLM**
 
