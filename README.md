@@ -28,7 +28,7 @@ I build with LLMs as a first-class tool: prompt engineering, RAG pipelines, AI-p
 
 **Backend**
 
-![Echo](https://img.shields.io/badge/Echo_v5-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Echo](https://img.shields.io/badge/Echo-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
