@@ -39,7 +39,8 @@ I build with LLMs as a first-class tool: prompt engineering, RAG pipelines, AI-p
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TanStack Start](https://img.shields.io/badge/TanStack_Start-3178C6?style=flat-square&logo=reactquery&logoColor=white)
-
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 **AI & LLM**
 
