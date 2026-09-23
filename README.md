@@ -12,8 +12,6 @@
 
 Software developer with years of experience designing and shipping production systems across the stack. Equally comfortable writing Go backends, React frontends, Python and TypeScript APIs, or integrating AI into real products. I pick the right tool for the job and care about clean architecture, solid fundamentals, and building software that holds up under pressure.
 
-I build with LLMs as a first-class tool: prompt engineering, RAG pipelines, AI-powered automation, and integrating models like Claude and GPT into production workflows. Currently focused on **distributed systems, AI-integrated backends, and observability**: concurrency patterns, networking, and systems that scale.
-
 ---
 
 ## Tech Stack
